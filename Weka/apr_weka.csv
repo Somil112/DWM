@@ -1,0 +1,10 @@
+TID,I1,I2,I3,I4,I5
+T1,Yes,Yes,,,Yes
+T2,,Yes,,Yes,
+T3,,Yes,Yes,,
+T4,Yes,Yes,,Yes,
+T5,Yes,,Yes,,
+T6,,Yes,Yes,,
+T7,Yes,,Yes,,
+T8,Yes,Yes,Yes,,Yes
+T9,Yes,Yes,Yes,,
